@@ -1,19 +1,6 @@
-body {
-  background-color: #121212;
-}
-
-h1 {
-  color: #FAF9F6;
-}
-
-h2 {
-  color: #FAF9F6;
-}
-
-h3 {
-  color: #FAF9F6;
-}
-
-p {
-  color: #b58;
+.heading{
+  font-family: Times New Roman;
+  font-size: 72px;
+  text-align: center;
+  text-decoration: underline;
 }
