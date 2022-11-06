@@ -13,18 +13,14 @@
   color: orangered;
 }
 
-a: link{
+a:link{
   color: orangered;
 }
 
 a:visited{
-  color: green;
+  color: deepskyblue;
 }
 
 a:hover{
   color: hotpink;
-}
-
-a:active{
-  color: blue;
 }
