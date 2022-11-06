@@ -13,24 +13,18 @@
   color: orangered;
 }
 
-.article_date{
-  font-family: Times new Roman;
-  font-size: 18px;
-  text-align: center;
-  color: black;
+a: link{
+  color: orangered;
 }
 
-.article_body{
-  font-family: Times new roman;
-  font-size: 24px;
-  text-align: justify;
-  color: #181818;
-  padding: 0px 50px 10px 50px;
+a:visited{
+  color: green;
 }
 
-.article_signature{
-  font-family: Times New Roman;
-  font-size: 36px;
-  text-align: center;
-  color:  ;
+a:hover{
+  color: hotpink;
+}
+
+a:active{
+  color: blue;
 }

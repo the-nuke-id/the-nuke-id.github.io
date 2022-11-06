@@ -1,0 +1,36 @@
+.page_title{
+  font-family: Times New Roman;
+  font-size: 96px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.article_heading{
+  font-family: Times New Roman;
+  font-size: 48px;
+  text-align: center;
+  text-decoration: underline;
+  color: orangered;
+}
+
+.article_date{
+  font-family: Times new Roman;
+  font-size: 18px;
+  text-align: center;
+  color: black;
+}
+
+.article_body{
+  font-family: Times new roman;
+  font-size: 24px;
+  text-align: justify;
+  color: #181818;
+  padding: 0px 50px 10px 50px;
+}
+
+.article_signature{
+  font-family: Times New Roman;
+  font-size: 36px;
+  text-align: center;
+  color:  ;
+}
