@@ -1,8 +1,13 @@
+body{
+  background-color: #2f2e2c;
+}
+
 .page_title{
   font-family: Times New Roman;
   font-size: 96px;
   text-align: center;
   text-decoration: underline;
+  color:  #DDD9D0;
 }
 
 .article_heading{
@@ -22,5 +27,5 @@ a:visited{
 }
 
 a:hover{
-  color: hotpink;
+  color: skyblue;
 }
