@@ -40,9 +40,30 @@ body{
   color: #DDD9D0;
 }
 
+.article_link{
+  font-family: Times New Roman;
+  font-size: 30px;
+}
+
 a.toplink:link,a.toplink:visited{
   color: orangered;
 }
 a.toplink:hover{
   color: skyblue;
+}
+
+a.bottomlink:link{
+  color: #ff4040;
+}
+
+a.bottomlink:visited{
+  color: #DDD9D0  ;
+}
+
+a.bottomlink:hover{
+  color: lightskyblue ;
+}
+
+a.bottomlink:active{
+  color: deepskyblue ;
 }

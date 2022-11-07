@@ -19,13 +19,17 @@ body{
 }
 
 a:link{
-  color: orangered;
+  color: #ff4040;
 }
 
 a:visited{
-  color: deepskyblue;
+  color: #DDD9D0  ;
 }
 
 a:hover{
-  color: skyblue;
+  color: lightskyblue ;
+}
+
+a:active{
+  color: deepskyblue ;
 }
