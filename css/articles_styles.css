@@ -45,6 +45,17 @@ body{
   font-size: 30px;
 }
 
+.quote{
+  color: yellow;
+}
+
+.post_link{
+  text-decoration:  underline ;
+  color: #91e0ff;
+  font-size:  125%;
+
+}
+
 a.toplink:link,a.toplink:visited{
   color: orangered;
 }
@@ -66,4 +77,8 @@ a.bottomlink:hover{
 
 a.bottomlink:active{
   color: deepskyblue ;
+}
+
+sup{
+  color: #cddc7a;
 }
